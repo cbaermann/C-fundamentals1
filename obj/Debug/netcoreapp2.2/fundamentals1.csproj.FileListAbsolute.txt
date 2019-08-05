@@ -1,0 +1,11 @@
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.deps.json
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.runtimeconfig.json
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.runtimeconfig.dev.json
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.dll
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.pdb
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.csprojAssemblyReference.cache
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.csproj.CoreCompileInputs.cache
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.AssemblyInfoInputs.cache
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.AssemblyInfo.cs
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.dll
+/Users/codybaermann/Documents/CodingDojo/c#/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.pdb
